@@ -1,0 +1,3 @@
+[submodule "vendor/dirtree"]
+	path = vendor/dirtree
+	url = https://github.com/rtircher/dirtree.git
